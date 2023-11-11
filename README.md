@@ -5,13 +5,22 @@
 
 - 🔭 I’m currently working on [30-Days-JavaScript](https://github.com/gorkemmadran/30DaysJSChallange)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning new Front-end technologies and frameworks.
+
+- 🚀 I'm passionate about creating engaging and interactive user experiences.
+  
+- 💬 Ask me about **Front-end development**
+
+- 💡 I love to explore new design trends and implement them in my projects.
+
+- 🎯 My goal is to build intuitive and user-friendly web applications.
+
+- 📫 How to reach me **gorkemmadran@hotmail.com**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gorkemmadran](https://github.com/gorkemmadran)
 
-- 💬 Ask me about **front end development**
 
-- 📫 How to reach me **gorkemmadran@hotmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
